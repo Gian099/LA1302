@@ -1,6 +1,6 @@
 # Projekt-Dokumentation 
  
-Yanick Müller, Gian-Marco Mileti, Noah Maximillian Meier, Benas Sivickas
+Yanik Müller, Gian-Marco Mileti, Noah Maximillian Meier, Benas Sivickas
 
 ## 1 Informieren
 
