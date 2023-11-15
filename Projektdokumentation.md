@@ -34,7 +34,7 @@ Yanik Müller, Gian-Marco Mileti, Noah Maximillian Meier, Benas Sivickas
 |8.1|7.2|2.Bossphase besiegt|Spiel gewonnen|
 
 
-### 2 Planen
+## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | 1.A | 22.11.23 | Benas | Ideen für verschiedene Bosse sammeln | 45' |
