@@ -1,1 +1,53 @@
+# Projekt-Dokumentation 
+ 
+Yanick Müller, Gian-Marco Mileti, Noah Maximillian Meier, Benas Sivickas
+
+## 1 Informieren
+
+
+
+### 1.1 User Stories
+
+| US-№ |   Beschreibung                       |
+| ---- |   ---------------------------------- |
+
+
+### 1.3 Testfälle
+
+| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
+| ---- | ------------ | ------- | ----------------- |
+
+
+## 2 Planen
+
+| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
+| ---- | ----- | --------- | ------------ | ------------- |
+
+
+
+
+## 3 Entscheiden
+
+
+## 4 Realisieren
+
+| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
+| ---- | ----- | --------- | ------------- | ----------------- |
+
+
+## 5 Kontrollieren
+
+| TC-№ | Datum | Resultat | Tester |
+| ---- | ----- | -------- | ------ |
+| 1.1  |      | |       |
+| 2.1  |    | |       |
+| 3.1  |     | |      |
+| 4.1  || |       |
+| 5.1  || |        |
+| 6.1  || |       |
+
+
+
+## 6 Code
+
 
