@@ -35,7 +35,7 @@ Yanik Müller, Gian-Marco Mileti, Noah Maximillian Meier, Benas Sivickas
 
 
 ## 2 Planen
-
+| ---- | ------------ | ------- | ----------------- |
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | 1.A | 22.11.23 | Benas | Ideen für verschiedene Bosse sammeln | 45' |
 | 2.A | 22.11.23 | Benas | Character select Screen implementieren | 90' |
