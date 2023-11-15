@@ -38,18 +38,18 @@ Yanik Müller, Gian-Marco Mileti, Noah Maximillian Meier, Benas Sivickas
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ |---------------|
-| 1.A | 22.11.23 | Benas | Ideen für verschiedene Bosse sammeln | 45' |
-| 2.A | 22.11.23 | Benas | Character select Screen implementieren | 90' |
+| 1.A | 22.11.23 | Alle | Ideen für verschiedene Bosse sammeln | 45' |
+| 2.A | 22.11.23 | Yanik | Character select Screen implementieren | 90' |
 | 3.A | 22.11.23 | Benas | Darstellung der Map implementieren | 45' |
-| 3.B | 29.11.23 | Benas | Spawnen von Gegnern implementieren | 45' |
-| 3.C | 29.11.23 | Benas | Kampf-UI implementieren | 90' |
+| 3.B | 29.11.23 | Gian-Marco | Spawnen von Gegnern implementieren | 45' |
+| 3.C | 29.11.23 | Noah | Kampf-UI implementieren | 90' |
 | 4.A | 29.11.23 | Benas | Aktionen implementieren | 90' |
-| 5.A | 29.11.23 | Benas | Einprogrammieren von RNG in Aktionen | 45' |
-| 6.A | 6.11.23 | Benas | Weiteres Szenario Überlegen | 45' |
+| 5.A | 29.11.23 | Gian-Marco | Einprogrammieren von RNG in Aktionen | 45' |
+| 6.A | 6.11.23 | Alle | Weiteres Szenario Überlegen | 45' |
 | 6.B | 6.11.23 | Benas | Logik zum wechseln von Szenarien implementieren | 90' |
-| 7.A | 13.11.23 | Benas | Implementieren der Schadens-logik des Bosses | 45' |
-| 7.B | 13.11.23 | Benas | Phasenwechsel des Bosses implementieren | 45' |
-| 8.A | 13.11.23 | Benas | Anzeigen eines "gewonnen"-screens implementieren | 45' |
+| 7.A | 13.11.23 | Noah | Implementieren der Schadens-logik des Bosses | 45' |
+| 7.B | 13.11.23 | Yanik | Phasenwechsel des Bosses implementieren | 45' |
+| 8.A | 13.11.23 | Yanik | Anzeigen eines "gewonnen"-screens implementieren | 45' |
 
 
 
