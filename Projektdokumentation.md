@@ -18,6 +18,7 @@ Yanick Müller, Gian-Marco Mileti, Noah Maximillian Meier, Benas Sivickas
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
+|1.1|Spiel gestartet|Start|Charakter auswahl Menu|
 
 
 ## 2 Planen
