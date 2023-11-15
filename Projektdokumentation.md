@@ -10,6 +10,8 @@ Yanick Müller, Gian-Marco Mileti, Noah Maximillian Meier, Benas Sivickas
 
 | US-№ |   Beschreibung                       |
 | ---- |   ---------------------------------- |
+| 1 | Als spieler möchte ich verschiedene bosse kämpfen können.|$
+| 2| als spieler möchte ich verschiedene charaktere auswählen können und sie spielen.
 
 
 ### 1.3 Testfälle
