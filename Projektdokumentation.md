@@ -77,15 +77,15 @@ Wir haben uns aufgrund des Zeitmangels dazu entschieden, die Arbeitspackete 2.A,
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-|1.1| 20.12.23 |funktioniert nicht||
-|2.1| 20.12.23 |funktioniert nicht||
-|3.1| 20.12.23 |funktioniert||
-|4.1| 20.12.23 |funktioniert||
-|5.1| 20.12.23 |funktioniert||
-|6.1| 20.12.23 |funktioniert||
-|7.1| 20.12.23 |funktioniert nicht||
-|7.2| 20.12.23 |funktioniert nicht||
-|8.1| 20.12.23 |funktioniert nicht||
+|1.1| 20.12.23 |funktioniert nicht|Noah|
+|2.1| 20.12.23 |funktioniert nicht|Noah|
+|3.1| 20.12.23 |funktioniert|Noah|
+|4.1| 20.12.23 |funktioniert|Noah|
+|5.1| 20.12.23 |funktioniert|Noah|
+|6.1| 20.12.23 |funktioniert|Noah|
+|7.1| 20.12.23 |funktioniert nicht|Noah|
+|7.2| 20.12.23 |funktioniert nicht|Noah|
+|8.1| 20.12.23 |funktioniert nicht|Noah|
 
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
