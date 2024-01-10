@@ -52,8 +52,6 @@ Yanik Müller, Gian-Marco Mileti, Noah Maximillian Meier, Benas Sivickas
 | 8.A | 13.12.23 | Yanik | Anzeigen eines "gewonnen"-screens implementieren | 45' |
 
 
-
-
 ## 3 Entscheiden
 
 Wir haben uns aufgrund des Zeitmangels dazu entschieden, die Arbeitspackete 2.A, 7.B und 8.A nicht zu vollenden.
@@ -86,16 +84,3 @@ Wir haben uns aufgrund des Zeitmangels dazu entschieden, die Arbeitspackete 2.A,
 |7.1| 20.12.23 |funktioniert nicht|Noah|
 |7.2| 20.12.23 |funktioniert nicht|Noah|
 |8.1| 20.12.23 |funktioniert nicht|Noah|
-
-
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |
-|1.1|Spiel gestartet|start|Charakter auswahl Menu|
-|2.1|1.1|Charakter auswählen|Spiel startet|
-|3.1|2.1|map starten|Gegner tauchen auf|
-|4.1|3.1|aktion auswählen|aktion wird ausgeführt|
-|5.1|4.1|Zufallszahl wird gewürfelt|die aktion basiert auf der gewürfelten Zahl|
-|6.1|Alle Gegner besiegt| weiter| neues Scenario|
-|7.1|letztes level|los|Boss erscheint|
-|7.2|7.1|Boss besiegt|Boss hat eine 2. Phase|
-|8.1|7.2|2.Bossphase besiegt|Spiel gewonnen|
