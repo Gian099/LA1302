@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6mQV+S2ZRyncmgOKm07el2JjnvW7uhcF7V3gg8wvMeBFXxtm3ezdtOKUFErrO/g7cY2nV6Pe5c3WSbh/kZsffg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\noahf\\Downloads\\blackpeoplearemonkeys\\DnDRPG\\DnDRPG\\DnDRPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\noahf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\noahf\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\noahf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\noahf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
